@@ -1,8 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://junjiah.com"
 
-permalink: /:slug.html
-
 remote_theme: riggraz/no-style-please
 theme_config:
   back_home_text: "cd .." # customize text for homepage link in post layout
