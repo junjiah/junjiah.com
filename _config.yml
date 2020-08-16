@@ -3,7 +3,6 @@ url: "junjiah.com"
 
 permalink: /:slug.html
 
-theme: no-style-please
 remote_theme: riggraz/no-style-please
 theme_config:
   back_home_text: "cd .." # customize text for homepage link in post layout
