@@ -63,7 +63,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.7)
   jekyll-feed (~> 0.12)
   no-style-please (~> 0.2.0)
   tzinfo (~> 1.2)
