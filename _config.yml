@@ -1,0 +1,17 @@
+baseurl: "junjiah.com" # the subpath of your site, e.g. /blog/
+url: "https://junjiah.github.io/"
+
+permalink: /:slug.html
+
+theme: no-style-please
+theme_config:
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
