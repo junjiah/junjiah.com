@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: ""
+url: "https://junjiah.com"
 
 permalink: /:slug.html
 
