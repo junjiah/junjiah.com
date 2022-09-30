@@ -28,7 +28,7 @@
         --a-colour: #91d6e5;
         --a-visited-colour: #56b8cd;
         --selection-colour: #91d6e532;
-        --img-onhover-colour: rgba(255, 255, 255, .06); 
+        --img-onhover-colour: rgba(255, 255, 255, .06);
         --side-right-gradient-background: linear-gradient(90deg, rgba(22,22,24,0) 0%, rgba(22,22,24,0.383) 25%, rgba(22,22,24,0.707) 50%, rgba(22,22,24,0.924) 75%, rgba(22,22,24,1) 100%);
         --side-left-gradient-background: linear-gradient(270deg, rgba(22,22,24,0) 0%, rgba(22,22,24,0.383) 25%, rgba(22,22,24,0.707) 50%, rgba(22,22,24,0.924) 75%, rgba(22,22,24,1) 100%);
     }
@@ -130,7 +130,7 @@ h1.latin, h1 .latin {
 a {
     color: var(--a-colour);
     text-decoration: none;
-    
+
     transition-duration: 0.2s;
 }
 
@@ -199,7 +199,7 @@ ol li {
 
 rt {
     font-size: 0.45rem;
-    
+
     ruby-align: center;
     text-align: center;
     letter-spacing: 0;
@@ -243,7 +243,7 @@ hr::before {
 ::-moz-selection {
     background: var(--selection-colour);
 }
-  
+
 ::selection {
     background: var(--selection-colour);
 }
